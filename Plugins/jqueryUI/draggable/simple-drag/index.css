@@ -1,0 +1,21 @@
+.container {
+    height: 500px;
+    width: 500px;
+    background: lightblue;
+    overflow: hidden;
+}
+
+.slider {
+    display: inline-block;
+    white-space: nowrap;
+    min-width: 3000px;
+}
+
+.box {
+    height: 200px;
+    width: 200px;
+    background: darkcyan;
+    cursor: pointer;
+    border: 1px solid black;
+    display: inline-block;
+}

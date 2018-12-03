@@ -1,0 +1,23 @@
+.container {
+    height: 200px;
+    width: 500px;
+    background: lightblue;
+    overflow: hidden;
+}
+
+.slider {
+    display: inline-block;
+    white-space: nowrap;
+}
+
+.box {
+    height: 200px;
+    width: 200px;
+    background: darkcyan;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.box + .box {
+    margin-left: 10px;
+}

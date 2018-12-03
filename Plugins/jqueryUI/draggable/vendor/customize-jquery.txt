@@ -1,0 +1,15 @@
+Customizable JQuery UI file:
+
+1. Core: 
+    Choose All
+
+2. Interactions:
+    a. Draggable
+
+3. Widgets:
+    a. Controlgroup
+    b. Mouse
+
+4. Effects:
+    a. Effects Core
+    b. Slide Effects
