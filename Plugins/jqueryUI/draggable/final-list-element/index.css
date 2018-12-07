@@ -3,10 +3,10 @@ body {
 }  
 
 .container {
-    height: 200px;
     width: 500px;
     background: lightblue;
     overflow: hidden;
+    margin: 50px;
 }
 
 .slider {
@@ -15,11 +15,14 @@ body {
 }
 
 .box {
-    height: 200px;
-    width: 200px;
-    background: darkcyan;
+    height: 20px;
+    width: 100px;
     cursor: pointer;
     display: inline-block;
+    border: 1px solid darkcyan;
+    text-align: center;
+    border-radius: 20px;
+    line-height: 20px;
 }
 
 .box + .box {

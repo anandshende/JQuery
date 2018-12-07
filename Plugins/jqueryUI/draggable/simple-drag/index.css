@@ -1,8 +1,5 @@
-.container {
-    height: 500px;
-    width: 500px;
-    background: lightblue;
-    overflow: hidden;
+body {
+    background: lightgrey;
 }
 
 .slider {

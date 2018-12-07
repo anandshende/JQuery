@@ -1,6 +1,6 @@
 /*! jQuery UI - v1.12.1 - 2018-12-03
 * http://jqueryui.com
-* Includes: widget.js, position.js, data.js, disable-selection.js, focusable.js, form-reset-mixin.js, jquery-1-7.js, keycode.js, labels.js, scroll-parent.js, tabbable.js, unique-id.js, widgets/draggable.js, widgets/controlgroup.js, widgets/mouse.js, effect.js, effects/effect-slide.js
+* Includes: widget.js, position.js, data.js, disable-selection.js, focusable.js, form-reset-mixin.js, jquery-1-7.js, keycode.js, labels.js, scroll-parent.js, tabbable.js, unique-id.js, widgets...js, widgets/controlgroup.js, widgets/mouse.js, effect.js, effects/effect-slide.js
 * Copyright jQuery Foundation and other contributors; Licensed MIT */
 
 (function( factory ) {
@@ -2022,9 +2022,9 @@ var safeBlur = $.ui.safeBlur = function( element ) {
 //>>label: Draggable
 //>>group: Interactions
 //>>description: Enables dragging functionality for any element.
-//>>docs: http://api.jqueryui.com/draggable/
-//>>demos: http://jqueryui.com/draggable/
-//>>css.structure: ../../themes/base/draggable.css
+//>>docs: http://api.jqueryui.com../
+//>>demos: http://jqueryui.com../
+//>>css.structure: ../../themes/base...css
 
 
 

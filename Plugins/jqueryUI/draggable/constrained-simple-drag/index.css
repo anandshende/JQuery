@@ -3,7 +3,7 @@ body {
 }  
 
 .container {
-    height: 200px;
+    height: 500px;
     width: 500px;
     background: lightblue;
     overflow: hidden;
@@ -12,6 +12,7 @@ body {
 .slider {
     display: inline-block;
     white-space: nowrap;
+    min-width: 3000px;
 }
 
 .box {
@@ -19,9 +20,6 @@ body {
     width: 200px;
     background: darkcyan;
     cursor: pointer;
+    border: 1px solid black;
     display: inline-block;
-}
-
-.box + .box {
-    margin-left: 10px;
 }
